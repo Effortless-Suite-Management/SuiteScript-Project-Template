@@ -1,2 +1,2 @@
 ## SuiteScript Project Template
-A generic project template as a starting point for SuiteScript projects.
+A generic project template for SuiteScript with TypeScript for NetSuite customizations.
