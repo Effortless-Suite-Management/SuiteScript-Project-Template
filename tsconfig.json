@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "module": "AMD",
+    "moduleResolution": "Node",
+    "sourceMap": false,
+    "strict": true,
+    "newLine": "lf",
+    "experimentalDecorators": true,
+    "removeComments": false,
+    "baseUrl": ".",
+    "lib": ["ES2021", "DOM"],
+    "paths": {
+      "N": ["node_modules/@hitc/netsuite-types/N"],
+      "N/*": ["node_modules/@hitc/netsuite-types/N/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}

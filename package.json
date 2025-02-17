@@ -1,0 +1,16 @@
+{
+  "name": "suitescript-project-template",
+  "version": "1.0.0",
+  "main": "suitecloud.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@hitc/netsuite-types": "^2025.1.2",
+    "typescript": "^5.7.3"
+  }
+}
